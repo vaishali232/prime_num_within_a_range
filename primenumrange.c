@@ -17,6 +17,6 @@ break;
 if(flag==0)
 {
 printf("%llu ",i);
-
+}
 }
 }
